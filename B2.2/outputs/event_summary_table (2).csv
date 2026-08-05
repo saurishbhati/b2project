@@ -1,0 +1,4 @@
+event,candidate_date_range,t0_timestamp,window_start,window_end,n_observations,n_scarcity_hours,max_max_price_mwh,avg_residual_demand_mw
+2022 summer heat,2022-07-11 to 2022-07-20,2022-07-12 20:00,2022-07-09 20:00,2022-07-15 20:00,145,29,991.01,51924.94
+Winter Storm Elliott,2022-12-22 to 2022-12-25,2022-12-23 21:00,2022-12-20 21:00,2022-12-26 21:00,145,13,923.65,42954.08
+August 2023 heat,2023-08-01 to 2023-08-31,2023-08-12 19:00,2023-08-09 19:00,2023-08-15 19:00,145,29,992.72,50915.17
