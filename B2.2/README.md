@@ -82,7 +82,7 @@ Aligning all three events on a common event-time clock — hours relative to t =
 
 ## 3. Key Figure
 
-![Three Event Comparison](outputs/three_event_comparison.png)
+https://drive.google.com/file/d/1Yz8-2tFBUlpefZGzHmPy6hz1ihOs1rwg/view?usp=drive_link
 
 *Figure 1. Residual demand, HB_WEST price, and scarcity flags across three ERCOT grid-stress events (±72 hours around each event center), 2022–2023. Values plotted as-is; no smoothing, interpolation, or filling. Amber bands = scarcity hours. Gray bands = missing price data. Dashed line = t = 0.*
 
