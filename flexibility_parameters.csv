@@ -1,0 +1,6 @@
+load_type,ramp_seconds,depth_pct,restart_penalty,kappa_tier,binding_constraint
+mining ASIC,5,100,near-zero,near-zero,pure economics
+AI training,60,30,low,small,chip opportunity cost
+AI inference,120,10,low,high,latency / SLA
+aluminum smelter,30,25,severe,nonlinear,thermal restart cost
+generic data center,90,15,moderate,contract,uptime SLA

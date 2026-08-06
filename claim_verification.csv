@@ -1,0 +1,4 @@
+claim_id,claim,verdict,basis
+L1,"mining is memoryless, toggled machine-by-machine near-instantly",holds,S21 firmware sleep mode pauses hashing at near-zero draw; per-unit toggle
+L2,Antminer-class chips cycle in ~10-15 seconds,holds with nuance,power-state switch is seconds; full rated hash rate after cold reboot takes minutes
+A2,data centers cannot be easily shut down / restarted,largely refuted for training; holds for inference / cloud,"25% cut sustained 3 hrs at full SLA (Phoenix); wall is workload type, not warm-up"
